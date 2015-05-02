@@ -1,0 +1,10 @@
+0ec6f74 HEAD@{0}: commit: git tracks changes of files
+3d395f9 HEAD@{1}: commit: git track changes
+809e4c0 HEAD@{2}: commit: understand how stage works
+068747b HEAD@{3}: reset: moving to 068747
+9ac955c HEAD@{4}: reset: moving to HEAD~2
+068747b HEAD@{5}: reset: moving to 068747
+360cbcd HEAD@{6}: reset: moving to HEAD~1
+068747b HEAD@{7}: commit: append GPL
+360cbcd HEAD@{8}: commit: add distributed
+9ac955c HEAD@{9}: commit (initial): wrote a readme file
